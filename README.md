@@ -1,4 +1,4 @@
-# Infinite Yield FE
+# Infinite
 <div align="center">
   <img src="https://photos5.appleinsider.com/gallery/40883-79111-B3840B94-33C9-4304-96D9-2BEBF83ECBAD-xl.jpg" width="1000" height="500" alt="Infinite Yield Logo">
 </div>
